@@ -32,13 +32,5 @@ This project is licensed under the MIT License. Feel free to use and modify it!
 
 
 
-Resume Description
-Full-Stack Job Portal Full-Stack Developer | [Your Duration]
-* Built a full-stack job portal using React.js, Tailwind CSS, Supabase, Clerk Authentication, and Shadcn UI.
-* Designed and implemented secure user authentication with Clerk for job seekers and employers.
-* Developed interactive dashboards for job posting, application tracking, and profile management.
-* Integrated Supabase (PostgreSQL) as the backend for efficient data storage and retrieval.
-* Optimized search and filtering functionality for job listings using advanced query techniques.
-* Ensured a fully responsive and accessible UI with Shadcn UI components.
 
 
